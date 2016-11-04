@@ -160,8 +160,8 @@
 
 		"xpos"			"c-100"
 		"ypos"			"c-96"
-		"wide"			"200"
-		"tall"			"200"
+		"wide"			"2000"
+		"tall"			"2000"
 
 		//"font"			"CrosshairsOutline34"
 		"font"			"Crosshairs34"
@@ -186,7 +186,7 @@
 
 		//"font"			"CrosshairsOutline34"
 		"font"			"Crosshairs34"
-		"labelText"		"9"
+		"labelText"		"o"
 		"textAlignment"	"center"	
 		
 		"fgcolor"		"255 255 255 255"

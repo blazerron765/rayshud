@@ -27,8 +27,8 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"xHairCircle"
 		"font"			"xHairCircle"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"

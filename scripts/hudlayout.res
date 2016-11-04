@@ -186,7 +186,7 @@
 
 		//"font"			"CrosshairsOutline34"
 		"font"			"Crosshairs34"
-		"labelText"		"o"
+		"labelText"		"9"
 		"textAlignment"	"center"	
 		
 		"fgcolor"		"255 255 255 255"

@@ -27,14 +27,14 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"xHairCircle"
 		"font"			"xHairCircle"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
 		"ypos"			"c-102"
-		"wide"			"201"
-		"tall"			"200"
+		"wide"			"501"
+		"tall"			"501"
 
 		//"font"		"xHairCircleOutline"
 		"font"			"xHairCircle"
@@ -175,8 +175,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"ThinCircle"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
